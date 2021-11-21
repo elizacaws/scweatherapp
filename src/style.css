@@ -5,3 +5,8 @@
 .units {
   font-size: 20px;
 }
+.attribute {
+    text-align: center;
+    padding: 30px;
+    font-size: 11px;
+}
